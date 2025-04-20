@@ -1,11 +1,17 @@
-function sweetTins(array) {
-    return array.reverse();
-}
+// function sweetTins(array) {
+//     return array.reverse();
+// }
+
+// let fruits = ["Mango", "Banana", "Orange", "Tangerine"];
+// let reversedFruits = sweetTins(fruits);
+
+// console.log(reversedFruits)
+
 
 let fruits = ["Mango", "Banana", "Orange", "Tangerine"];
-let reversedFruits = sweetTins(fruits);
+console.log(fruits.reverse())
 
-console.log(reversedFruits)  
+
 
 
 
